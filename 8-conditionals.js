@@ -75,5 +75,6 @@ console.log(resultado);
 /*  
 Variables piedra, papel y tiejeras 
 una funcion que utilice cindicionales para validar si el parametro que le estoy pasando gana o pierde. 
-y que la funcion al final me regrese el resultado de si gané, o  perdí. 
+y que la funcion al final me regrese el resultado de si gané, o  perdí.  holaaaaaaaaa
+
 */ 
